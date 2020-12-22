@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Just here for a good time.
+
+Student in Computer Science & Pianist. 🏳️‍🌈
+
 Geek by nature. I like code and music. I play the piano in my spare time and sing once in a while. 
 
 I talk about technology, smart house and artificial intelligence. 
