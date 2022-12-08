@@ -10,6 +10,6 @@ To entertain myself, I watch TV shows and read books.
 
 🌱 I’m currently learning AI & ML.
 
-If you want to learn more about me and what I do, check my website : [princelle.org](https://princelle.org/en) and my GitHub.
+If you want to learn more about me and what I do, check my website : [maxime.princelle.org](https://maxime.princelle.org/en) and my GitHub.
 
 ![](https://komarev.com/ghpvc/?username=ThePrincelle&label=PROFILE+VIEWS&style=flat-square)
