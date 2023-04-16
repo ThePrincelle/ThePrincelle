@@ -6,7 +6,7 @@ I talk about technology in genreral (web related mostly but Apple linked stuff t
 
 To entertain myself, I watch TV shows and movies, read books, [listen to a LOT of music](https://music.apple.com/profile/ThePrincelle) and sing once in a while... 
 
-🔭 I’m currently working on making websites with TailwindCSS + Next.
+🔭 I’m currently working on my nuxt portfolio with TailwindCSS + Nuxt.
 
 🌱 I’m currently learning AI & ML.
 
